@@ -1,12 +1,10 @@
-Comandos de git
+Esta es la historia de Edear Vilchez
 
-git init => inicializa el repositorio local
+Edwar Vilchez es desarrollador web y profesor universitario
 
-git add . => agrega los cambios al area de preparación (staging area)
+Tiene 43 años y nació en Venezuela
 
-git status => indica el estado del repositorio
-
-git rm --cached XXX => saca o borra el archivo XXX del area de preparación (staging area)
+Hablaremos un poco de él
 
 
 
