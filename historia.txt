@@ -1,0 +1,14 @@
+Comandos de git
+
+git init => inicializa el repositorio local
+
+git add . => agrega los cambios al area de preparación (staging area)
+
+git status => indica el estado del repositorio
+
+git rm --cached XXX => saca o borra el archivo XXX del area de preparación (staging area)
+
+
+
+
+
